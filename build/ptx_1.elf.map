@@ -1900,9 +1900,9 @@ Discarded input sections
                 0x00000000       0x5c ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
  .text.vPortGetHeapStats
                 0x00000000       0x84 ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .text          0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
- .data          0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
- .bss           0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
+ .text          0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
+ .data          0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
+ .bss           0x00000000        0x0 C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
  .data          0x00000000        0x0 c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .text          0x00000000        0x0 c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-calloc.o)
@@ -2050,7 +2050,7 @@ LOAD c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/a
 .boot2          0x10000000      0x100
                 0x10000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x10000000      0x100 C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
+ .boot2         0x10000000      0x100 C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
                 0x10000100                __boot2_end__ = .
                 0x00000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -4293,7 +4293,7 @@ LOAD ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/Free
 LOAD ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/timers.c.obj
 LOAD ptx_1/CMakeFiles/ptx_1.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.0/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
 LOAD ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
-LOAD C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
+LOAD C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
 LOAD c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a
 LOAD c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 START GROUP
@@ -4436,7 +4436,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x000009de       0x2c ptx_1/CMakeFiles/ptx_1.dir/D_/ITESM/Sem_10/Sistemas_Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
  .ARM.attributes
-                0x00000a0a       0x22 C:\Users\lucot\AppData\Local\Temp\cc0DQohe.o
+                0x00000a0a       0x22 C:\Users\lucot\AppData\Local\Temp\ccSdZJTk.o
  .ARM.attributes
                 0x00000a2c       0x1e c:/progra~1/raspberry pi/pico sdk v1.5.0/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes

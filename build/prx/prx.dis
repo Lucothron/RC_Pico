@@ -1,5 +1,5 @@
 
-D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/Carrito/build/prx/prx:     file format elf32-littlearm
+D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/RC_Pico/build/prx/prx:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -48,7 +48,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
  21 .debug_frame  000044a4  00000000  00000000  000a4f1c  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
-D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/Carrito/build/prx/prx:     file format elf32-littlearm
+D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/RC_Pico/build/prx/prx:     file format elf32-littlearm
 
 
 Disassembly of section .boot2:
