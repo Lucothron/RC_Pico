@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ptx_1/FREERTOS_KERNEL",
+		"source" : "D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/ThirdParty/GCC/RP2040"
+	}
+}
