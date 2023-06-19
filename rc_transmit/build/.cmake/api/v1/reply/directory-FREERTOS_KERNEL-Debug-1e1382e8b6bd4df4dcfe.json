@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "FREERTOS_KERNEL",
+		"source" : "C:/Users/JORGE/Desktop/Trabajos Jorge/10mo semestre/Sistemas Embebidos/FreeRTOSv202212.01/FreeRTOSv202212.01/FreeRTOS/Source/portable/ThirdParty/GCC/RP2040"
+	}
+}

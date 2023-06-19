@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Transmisor")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/FreeRTOS-Kernel")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/Carrito/build/pico-sdk/src/rp2040/hardware_regs/cmake_install.cmake")
-  include("D:/ITESM/Sem 10/Sistemas Embebidos/RaspPico/FinalProject/Carrito/build/pico-sdk/src/rp2040/hardware_structs/cmake_install.cmake")
+  include("D:/Projects/RC_Pico/build/pico-sdk/src/rp2040/hardware_regs/cmake_install.cmake")
+  include("D:/Projects/RC_Pico/build/pico-sdk/src/rp2040/hardware_structs/cmake_install.cmake")
 
 endif()
 
