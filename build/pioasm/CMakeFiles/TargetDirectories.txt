@@ -1,3 +1,0 @@
-/Users/richardmac/Desktop/Carrito/build/pioasm/CMakeFiles/pioasm.dir
-/Users/richardmac/Desktop/Carrito/build/pioasm/CMakeFiles/edit_cache.dir
-/Users/richardmac/Desktop/Carrito/build/pioasm/CMakeFiles/rebuild_cache.dir
